@@ -54,7 +54,7 @@ The `ssl_verify` option defines if the server SSL certificate should be
 validated (use false for self signed certificates, only useful with https).
 
 The `timeout` option defines after how many seconds a request to the Gitlab
-server should be abandonned.
+server should be abandoned.
 
 The `username` defines the username for jenkins login. For store the password in cypertext please run the command `jenkins set_jenkins_password`.
 
